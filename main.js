@@ -34,18 +34,11 @@ function firstItemIsNumber(arr){
     return false
 }
 
+
 // 6.  secondCharOThirdString
 function secondCharOfThirdString(arr){
-  if (arr || arr.length < 3 ) {
-    return
-  }
-  const thirdItem = arr[2]
-  if (typeof thirdItem !== "string") {
-    return
-  }
-  
-}
-
+return  arr[2] [1] 
+ }
  /********************************************
  * CODE DOWN HERE IS FOR INTERNAL USE ONLY. *
  *           PLEASE DON'T TOUCH!            *
